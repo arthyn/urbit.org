@@ -22,7 +22,7 @@ If you run Windows or just want to give it a shot without worrying about the gri
 
 ## Get Port {#port}
 
-Port is a desktop GUI application that allows you to spin up, access, and manage your Urbit ships whether they are comets, planets or stars, without any knowledge of the command line or Urbit binary.
+**Port** is a desktop GUI application that allows you to spin up, access, and manage your Urbit ships without any knowledge of the command line or Urbit binary.
 
 <div id="port-os" class="os mv3">
   <input type="radio" id="port-macos" name="port-os" checked>
